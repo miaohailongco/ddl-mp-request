@@ -1,6 +1,6 @@
 {
   "name": "ddl-mp-request",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "request for mp or uniapp",
   "main": "src/index.js",
   "scripts": {
