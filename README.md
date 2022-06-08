@@ -1,4 +1,4 @@
-# ddl-mini-request
+# ddl-mp-request
 ## 说明
 ```bash
 该网络请求配置仅针对uniapp开发小程序和原生小程序而编写
@@ -7,14 +7,14 @@
 
 ## 安装
 ```bash
-npm install ddl-mini-request
+npm install ddl-mp-request
 ```
 
 ## 导入
 
 ```js
 // 按需导入 $http 对象
-import { $http } from 'ddl-mini-request'
+import { $http } from 'ddl-mp-request'
 
 // 将按需导入的 $http 挂载到 wx 顶级对象之上，方便全局调用
 wx.$http = $http
