@@ -1,0 +1,22 @@
+{
+  "name": "ddl-mp-request",
+  "version": "1.0.3",
+  "description": "request for mp or uniapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miaohailongco/ddl-mp-request.git"
+  },
+  "keywords": [
+    "request"
+  ],
+  "author": "wudidadalong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miaohailongco/ddl-mp-request/issues"
+  },
+  "homepage": "https://github.com/miaohailongco/ddl-mp-request#readme"
+}
